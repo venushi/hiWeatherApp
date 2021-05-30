@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/hiWeatherApp/static/css/main.3017bb0a.chunk.css",
+    "main.js": "/hiWeatherApp/static/js/main.10874566.chunk.js",
+    "main.js.map": "/hiWeatherApp/static/js/main.10874566.chunk.js.map",
+    "runtime-main.js": "/hiWeatherApp/static/js/runtime-main.69f7f8b5.js",
+    "runtime-main.js.map": "/hiWeatherApp/static/js/runtime-main.69f7f8b5.js.map",
+    "static/js/2.4d903208.chunk.js": "/hiWeatherApp/static/js/2.4d903208.chunk.js",
+    "static/js/2.4d903208.chunk.js.map": "/hiWeatherApp/static/js/2.4d903208.chunk.js.map",
+    "static/js/3.0c0bdc75.chunk.js": "/hiWeatherApp/static/js/3.0c0bdc75.chunk.js",
+    "static/js/3.0c0bdc75.chunk.js.map": "/hiWeatherApp/static/js/3.0c0bdc75.chunk.js.map",
+    "index.html": "/hiWeatherApp/index.html",
+    "static/css/main.3017bb0a.chunk.css.map": "/hiWeatherApp/static/css/main.3017bb0a.chunk.css.map",
+    "static/js/2.4d903208.chunk.js.LICENSE.txt": "/hiWeatherApp/static/js/2.4d903208.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/hiWeatherApp/static/media/warm.c8c53b06.jpg",
+    "static/media/logo.6ce24c58.svg": "/hiWeatherApp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69f7f8b5.js",
+    "static/js/2.4d903208.chunk.js",
+    "static/css/main.3017bb0a.chunk.css",
+    "static/js/main.10874566.chunk.js"
+  ]
+}
